@@ -7,9 +7,10 @@
 #####  Now I study of : C# / .NET Core / SQL /
 ##### And I ready to cooperate 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=suwaloff)  
+
 
 ![Profile views](https://gpvc.arturio.dev/suwaloff)  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=suwaloff&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **suwaloff/suwaloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
