@@ -10,7 +10,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/suwaloff)  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=suwaloff&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=suwaloff&theme=dark)](https://leetcode.com/suwaloff/)
 <!--
 **suwaloff/suwaloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
