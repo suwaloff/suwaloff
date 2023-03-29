@@ -3,9 +3,7 @@
 
 
 ##### "You have to support yourself and follow your dreams!"
-##### My ambition to become a developer 
-#####  Now I study of : C# / .NET Core / SQL /
-##### And I ready to cooperate 
+
 
 
 
